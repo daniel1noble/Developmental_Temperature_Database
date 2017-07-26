@@ -5,7 +5,7 @@ description: "Welcome to the webpage of the Developmental Temperatures Database.
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
-url:
+url: https://daniel1noble.github.io/Developmental_Temperature_Database/
 feed:
   path: atom.xml
 
