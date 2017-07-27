@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: "Developmental Temperatures Database"
+title: Developmental Temperatures Database
 description: "Welcome to the webpage of the Developmental Temperatures Database. A team dedicated to compiling data on the effects of early thermal environments on phenotypes "
 logo: images/hornedLiz.jpg # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
