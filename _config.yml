@@ -23,6 +23,7 @@ gems:
   - jekyll-gist
   - jekyll-feed
 
+theme: minima
 
 # Site owner
 owner:
