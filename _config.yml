@@ -31,8 +31,8 @@ owner:
   google:
     ad-client:
     ad-slot:
-  bio:
-  avatar: bio-photo.jpg # 160x160 px image for author byline
+  bio: "Welcome to the webpage of the Developmental Temperatures Database. A team dedicated to compiling data on the effects of early thermal environments on phenotypes "
+  avatar: hornedLiz.jpg # 160x160 px image for author byline
   disqus-shortname:
 
 
