@@ -2,6 +2,7 @@
 layout: archive
 permalink: /
 title: "Latest Posts"
+This is the first test of the database
 ---
 
 <div class="tiles">
