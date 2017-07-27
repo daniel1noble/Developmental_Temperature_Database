@@ -1,5 +1,4 @@
 ---
-layout: author
 title: About
 permalink: author/About/
 feature_image: hornedLiz.jpg
