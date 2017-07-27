@@ -3,8 +3,8 @@ layout: {{ layout }}
 title: {{ title }}
 modified:
 categories: {{ dir }}
-excerpt:
-tags: []
+excerpt: This is to test what the fuck is going on.
+tags: [database release]
 image:
   feature:
   teaser:
