@@ -1,11 +1,6 @@
 # Site navigation links
 
-- title: Data
-  url: /data/
-  excerpt: "The database"
-  image:
-
-- title: About
-  url: /About/
-  excerpt: "About the database working group"
+- title:
+  url:
+  excerpt:
   image:
