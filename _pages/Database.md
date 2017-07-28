@@ -1,6 +1,13 @@
 ---
 permalink: /Database/
 title: "Database"
+modified:
+excerpt: "Access the Tinc data now!"
+image: "images/ar-horned.jpeg"
+  feature: "images/ar-horned.jpeg"
+  teaser:
+  thumb: "images/ar-horned.jpeg"
+ads: false  
 ---
 
 <div class="tiles">
