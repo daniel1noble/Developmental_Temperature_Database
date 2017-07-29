@@ -1,0 +1,5 @@
+baseURL = "https://daniel1noble.github.io/Developmental_Temperature_Database/"
+languageCode = "en-us"
+title = "Developmental Temperatures Database"
+theme = "beautifulhugo"
+publishDir = "docs"
