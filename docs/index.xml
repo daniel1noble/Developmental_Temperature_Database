@@ -6,9 +6,46 @@
     <description>Recent content on Developmental Temperatures Database</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 29 Jul 2017 11:19:44 +1000</lastBuildDate>
     
 	<atom:link href="https://daniel1noble.github.io/Developmental_Temperature_Database/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Blog</title>
+      <link>https://daniel1noble.github.io/Developmental_Temperature_Database/blog/</link>
+      <pubDate>Sat, 29 Jul 2017 11:19:44 +1000</pubDate>
+      
+      <guid>https://daniel1noble.github.io/Developmental_Temperature_Database/blog/</guid>
+      <description>Adding some new blogs</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://daniel1noble.github.io/Developmental_Temperature_Database/about/</link>
+      <pubDate>Sat, 29 Jul 2017 11:17:05 +1000</pubDate>
+      
+      <guid>https://daniel1noble.github.io/Developmental_Temperature_Database/about/</guid>
+      <description>About the Thermal Development database</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://daniel1noble.github.io/Developmental_Temperature_Database/pages/about/</link>
+      <pubDate>Sat, 29 Jul 2017 11:11:37 +1000</pubDate>
+      
+      <guid>https://daniel1noble.github.io/Developmental_Temperature_Database/pages/about/</guid>
+      <description>About the Thermal Development database</description>
+    </item>
+    
+    <item>
+      <title>FirstPost</title>
+      <link>https://daniel1noble.github.io/Developmental_Temperature_Database/posts/firstpost/</link>
+      <pubDate>Sat, 29 Jul 2017 10:55:52 +1000</pubDate>
+      
+      <guid>https://daniel1noble.github.io/Developmental_Temperature_Database/posts/firstpost/</guid>
+      <description>This is a test of some posting! Lets see how she works</description>
+    </item>
     
   </channel>
 </rss>
