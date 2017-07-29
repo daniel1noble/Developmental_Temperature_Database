@@ -10,3 +10,4 @@ title: "Latest Posts"
 {% endfor %}
 </div><!-- /.tiles -->
 
+We can make posts and everything here and then update people on web page
