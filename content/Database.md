@@ -13,4 +13,4 @@ hist(x)
 
 We can even add in a picture as follows:
 
-![Example image](/static/ar-horned.jpg)
+![Our horned lizard](frilly.jpg)
