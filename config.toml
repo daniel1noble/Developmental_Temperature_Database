@@ -1,6 +1,6 @@
 baseURL = "https://daniel1noble.github.io/Developmental_Temperature_Database/"
 languageCode = "en-us"
-title = "Welcome to the Reptile Developmental Temperature Database!"
+title = "Reptile Developmental Temperature Database!"
 theme = "beautifulhugo"
 publishDir = "public"
 
