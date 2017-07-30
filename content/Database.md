@@ -10,3 +10,7 @@ Here we can link to the database:
 x <- rnorm(30)
 hist(x)
 ```
+
+We can even add in a picture as follows:
+
+![Example image](/static/ar-horned.jpg)

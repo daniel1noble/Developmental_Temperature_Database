@@ -27,7 +27,7 @@
       
       <guid>https://daniel1noble.github.io/Developmental_Temperature_Database/database/</guid>
       <description>Here we can link to the database:
-x &amp;lt;- rnorm(30) hist(x)  </description>
+x &amp;lt;- rnorm(30) hist(x)  We can even add in a picture as follows:</description>
     </item>
     
     <item>
