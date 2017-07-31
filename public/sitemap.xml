@@ -3,12 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://daniel1noble.github.io/Developmental_Temperature_Database/database/</loc>
-    <lastmod>2017-07-29T12:15:52+10:00</lastmod>
+    <loc>https://daniel1noble.github.io/Developmental_Temperature_Database/about/</loc>
   </url>
   
   <url>
-    <loc>https://daniel1noble.github.io/Developmental_Temperature_Database/about/</loc>
+    <loc>https://daniel1noble.github.io/Developmental_Temperature_Database/database/</loc>
   </url>
   
   <url>
@@ -22,7 +21,6 @@
   
   <url>
     <loc>https://daniel1noble.github.io/Developmental_Temperature_Database/</loc>
-    <lastmod>2017-07-29T12:15:52+10:00</lastmod>
     <priority>0</priority>
   </url>
   
