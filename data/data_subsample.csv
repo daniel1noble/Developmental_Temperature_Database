@@ -1,5 +1,5 @@
 .id,Paper_No,Year,Source_Page,Source,Order,Family,Genus,Species,spp,Named_Location,Const_Fluct,Egg_Design,age,age_cat,Data_style,Trait_No.,Trait_Cat,Trait,Units,Sex.samp,Error_type,pairgrp,Comments,fluc,T,Mean,SD,N,Collapse,Replicate,SexRep
-5000,1000,1997,769,Table 1,Squamata,Iguanidae,Cyclura,nubila,Cyclura_nubila,US_Naval_Station_Guantanamo Bay_Cuba,Const,split_pseudo,0,"(-Inf,10]",raw,2,Morphology,Mass,g,mix.sex,SE,2,-550,0.2,28,54.5,1.697,8,1,,
+Dan,Dan,Dan,Dan,Dan,Dan,Dan,Dan,Dan,Dan,Dan,Dan,Dan,Dan,Dan,raw,2,Morphology,Mass,g,mix.sex,SE,2,-550,0.2,28,54.5,1.697,8,1,,
 1000.2,1000,1997,769,Table 1,Squamata,Iguanidae,Cyclura,nubila,Cyclura_nubila,US_Naval_Station_Guantanamo Bay_Cuba,Const,split_pseudo,0,"(-Inf,10]",raw,2,Morphology,Mass,g,mix.sex,SE,3,-1100,0.2,28,46.6,11.597,8,1,,
 1000.2,1000,1997,769,Table 1,Squamata,Iguanidae,Cyclura,nubila,Cyclura_nubila,US_Naval_Station_Guantanamo Bay_Cuba,Const,split_pseudo,0,"(-Inf,10]",raw,2,Morphology,Mass,g,mix.sex,SE,1,-150,0.2,29.5,47.5,6,9,1,,
 1000.2,1000,1997,769,Table 1,Squamata,Iguanidae,Cyclura,nubila,Cyclura_nubila,US_Naval_Station_Guantanamo Bay_Cuba,Const,split_pseudo,0,"(-Inf,10]",raw,2,Morphology,Mass,g,mix.sex,SE,2,-550,0.2,29.5,45.6,8.854,10,1,,
